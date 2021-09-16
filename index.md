@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to YueyangYan's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/YueyangYan/YueyangYan-Lehigh.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Yueyang Yan. It is my third year to study in Lehigh University. My majors are Journalism and Japanese. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a TA for elementary Japanese courses, and I'm also in Lehigh's news agency——Brown and White. My main job in Brown and White is interviewing, analyzing the data, writing the report and taking photos. 
 
-### Markdown
+[My facebook](https://www.facebook.com/yueyang.yan.50)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YueyangYan/YueyangYan-Lehigh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FYueyang%2FYan&psig=AOvVaw2Ewwf33mkRXk6yIE_3dkL9&ust=1631907104222000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOisxO-dhPMCFQAAAAAdAAAAABAD)
