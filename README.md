@@ -9,3 +9,10 @@ I'm a TA for elementary Japanese courses, and I'm also in Lehigh's news agency�
 ![Image](https://www.google.com/search?q=lehigh+valley&tbm=isch&ved=2ahUKEwiG297Z_oPzAhW2nnIEHf2wDXsQ2-cCegQIABAA&oq=lehigh+valley&gs_lcp=CgNpbWcQAzIECAAQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQBRAeOgQIABAYOgYIABAIEB5Q_A5YzBdg4R5oAHAAeACAAUmIAd4CkgEBNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=-XpDYcb6Nra9ytMP_eG22Ac&bih=722&biw=1536#imgrc=6LZIUoOxUPhyrM)
 
 [Image] How does the COVID-19 impact adults' mental health.(https://www.canva.com/design/DAErP_vRzjo/Plfn_sL6eLzL58jB336oZg/view?utm_content=DAErP_vRzjo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+The Implications of COVID-19 for Mental Health and Substance Use by Nirmita Panchal, Rabah Kamal, Cynthia Cox, and Rachel Garfield. (https://www.kff.org/coronavirus-covid-19/issue-brief/the-implications-of-covid-19-for-mental-health-and-substance-use/)
+
+Men, jobless and people with mental health diagnoses most vulnerable in 2020 overdose spike by Corrie Pikul. (https://www.brown.edu/news/2021-09-17/overdose)
+
+Background information: The epidemic has brought people not only pain but also internal trauma, with many people suffering from anxiety and depression in a closed environment.
+Key findings: Depression is most common among 18 - to 24-year-olds, many of whom turn to alcohol and drugs for relief.
+Implications: (Here are the words from experts) History has shown that the mental health impact of disasters outlasts the physical impact, suggesting today’s elevated mental health need will continue well beyond the coronavirus outbreak itself. For example, an analysis of the psychological toll on health care providers during outbreaks found that psychological distress can last up to three years after an outbreak. Due to the financial crisis accompanying the pandemic, there are also significant implications for mortality due to “deaths of despair.” A May 2020 analysis projects that, based on the economic downturn and social isolation, additional deaths due to suicide and alcohol or drug misuse may occur by 2029.
