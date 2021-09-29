@@ -6,13 +6,13 @@ I'm a TA for elementary Japanese courses, and I'm also in Lehigh's news agencyâ€
 
 [My facebook](https://www.facebook.com/yueyang.yan.50)
 
-
+### ADD A TITLE FOR YOUR INFOGRAPHIC
 
 ![How does the COVID-19 impact adults' mental health](https://www.canva.com/design/DAErP_vRzjo/Plfn_sL6eLzL58jB336oZg/view?utm_content=DAErP_vRzjo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-The Implications of COVID-19 for Mental Health and Substance Use by Nirmita Panchal, Rabah Kamal, Cynthia Cox, and Rachel Garfield. (https://www.kff.org/coronavirus-covid-19/issue-brief/the-implications-of-covid-19-for-mental-health-and-substance-use/)
-
-Men, jobless and people with mental health diagnoses most vulnerable in 2020 overdose spike by Corrie Pikul. (https://www.brown.edu/news/2021-09-17/overdose)
+Sources:
+- The Implications of COVID-19 for Mental Health and Substance Use by Nirmita Panchal, Rabah Kamal, Cynthia Cox, and Rachel Garfield. See [original data](https://www.kff.org/coronavirus-covid-19/issue-brief/the-implications-of-covid-19-for-mental-health-and-substance-use/);
+- Men, jobless and people with mental health diagnoses most vulnerable in 2020 overdose spike by Corrie Pikul. Read the full [report](https://www.brown.edu/news/2021-09-17/overdose)
 
 Background information: The epidemic has brought people not only pain but also internal trauma, with many people suffering from anxiety and depression in a closed environment.
 Key findings: Depression is most common among 18 - to 24-year-olds, many of whom turn to alcohol and drugs for relief.
